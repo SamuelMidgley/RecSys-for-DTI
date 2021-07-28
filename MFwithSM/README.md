@@ -1,6 +1,6 @@
 # Matrix Factorisation leveraging similarity matrices
 
-Contains code for similarity matrices and notebook
+Contains code for the similarity matrices for both drugs and targets
 
 ## Similarity Matrices Calculation
 - Drug-Drug similarity is found via the Dice similarity score between the Morgan fingerprints of the drugs
