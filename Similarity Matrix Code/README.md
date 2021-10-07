@@ -1,4 +1,4 @@
-# Matrix Factorisation leveraging similarity matrices
+# Matrix Factorisation Leveraging Similarity Matrices
 
 Contains code for the similarity matrices for both drugs and targets
 
