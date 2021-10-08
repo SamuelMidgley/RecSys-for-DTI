@@ -1,7 +1,5 @@
 # Matrix Factorisation for Drug-Target Interactions
 
-NOTE: Upload of Similarity Matrix Code pending
-
 Code is part of a group project for a task set by AstraZeneca
 
 Includes two models:
